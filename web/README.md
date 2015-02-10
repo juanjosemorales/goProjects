@@ -1,3 +1,3 @@
-#Web_1 Project
+#Web
 
 This is a web service that posts the localtime
